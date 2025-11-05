@@ -15,3 +15,7 @@ custome vision language action model pipeline(in progress)
           journal={arXiv preprint arXiv:2507.17520},
           year={2025}
         }
+
+meta llama
+
+dinov2
